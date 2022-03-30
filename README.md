@@ -6,6 +6,8 @@
 
 감사합니다.
 
+많은 도움이 됩니다. 감사 !!
+
 This is your README. READMEs are where you can communicate what your project is and how to use it.
 
 Write your name on line 6, save it, and then head back to GitHub Desktop.
